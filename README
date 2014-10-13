@@ -3,3 +3,11 @@ This repository is intended for academical use of "INTEGRATIVE PROGRAMMING"
 Team member:
 1. Taufik Akbar Abdullah - 18212002
 2. Bintang Subuh Puntodewo - 18212021
+
+=====================
+USAGE:
+=====================
+
+parser.py :
+Accept one argument of the rss URL. Optional if rss.xml already exist in same directory
+example: $ python parser.py http://feeds.bbci.co.uk/news/world/asia/rss.xml
