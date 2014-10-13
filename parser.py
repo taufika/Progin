@@ -1,4 +1,5 @@
 from xml.dom import minidom
+import datetime
 import time
 import urllib
 import sys
@@ -22,6 +23,8 @@ print '====================================================='
 rssupdated = 'Updated on ' + mychannel.getElementsByTagName('lastBuildDate')[0].childNodes[0].nodeValue
 print rssupdated
 print '====================================================='
+print '                 LAST 24 HOUR NEWS                   '
+print '====================================================='
 
 itemlist = mychannel.getElementsByTagName('item')
 itemlist.sort(key=lambda x: time.strptime(x.getElementsByTagName('pubDate')[0].childNodes[0].nodeValue, '%a, %d %b %Y %H:%M:%S %Z'), reverse=True)
@@ -29,11 +32,14 @@ itemlist.sort(key=lambda x: time.strptime(x.getElementsByTagName('pubDate')[0].c
 i = 1
 for s in itemlist :
 	itemtitle = s.getElementsByTagName('title')[0]
-	print str(i) + '. ' + itemtitle.childNodes[0].nodeValue
-	i = i+1 
 	pubDate = s.getElementsByTagName('pubDate')[0]
-	print '    Published on ' + pubDate.childNodes[0].nodeValue
-	itemcontent = s.getElementsByTagName('description')[0]
-	#print '   ' + itemcontent.childNodes[0].nodeValue
-	itemcontent = s.getElementsByTagName('guid')[0]
-	print '   (' + itemcontent.childNodes[0].nodeValue + ')'
+	pubTime = datetime.datetime.fromtimestamp(time.mktime(time.strptime(pubDate.childNodes[0].nodeValue, '%a, %d %b %Y %H:%M:%S %Z')))
+	nowTime = datetime.datetime.now()
+	diffTime = (nowTime - pubTime)
+	diffTime = diffTime.seconds + diffTime.days*24*60*60
+	if diffTime <= 86400:
+		itemcontent = s.getElementsByTagName('guid')[0]
+		print str(i) + '. ' + itemtitle.childNodes[0].nodeValue
+		print '    Published on ' + pubDate.childNodes[0].nodeValue
+		print '   (' + itemcontent.childNodes[0].nodeValue + ')'
+		i = i+1 
