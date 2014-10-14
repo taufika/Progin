@@ -33,8 +33,8 @@ i = 1
 for s in itemlist :
 	itemtitle = s.getElementsByTagName('title')[0]
 	pubDate = s.getElementsByTagName('pubDate')[0]
-	pubTime = datetime.datetime.fromtimestamp(time.mktime(time.strptime(pubDate.childNodes[0].nodeValue, '%a, %d %b %Y %H:%M:%S %Z')))
-	nowTime = datetime.datetime.now()
+	pubTime = datetime.datetime.strptime(pubDate.childNodes[0].nodeValue[0:25], '%a, %d %b %Y %H:%M:%S')
+	nowTime = datetime.datetime.utcnow()
 	diffTime = (nowTime - pubTime)
 	diffTime = diffTime.seconds + diffTime.days*24*60*60
 	if diffTime <= 86400:
