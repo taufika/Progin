@@ -27,7 +27,7 @@ print '                 LAST 24 HOUR NEWS                   '
 print '====================================================='
 
 itemlist = mychannel.getElementsByTagName('item')
-itemlist.sort(key=lambda x: time.strptime(x.getElementsByTagName('pubDate')[0].childNodes[0].nodeValue[0:25], '%a, %d %b %Y %H:%M:%S'), reverse=True)
+itemlist.sort(key=lambda x: time.strptime(x.getElementsByTagName('pubDate')[0].childNodes[0].nodeValue, '%a, %d %b %Y %H:%M:%S %Z'), reverse=True)
 
 i = 1
 for s in itemlist :
