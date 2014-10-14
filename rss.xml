@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Technology</title>  
+    <link>http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+    <description>The latest stories from the Technology section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Mon, 13 Oct 2014 12:02:05 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - Technology</title>  
+      <link>http://www.bbc.co.uk/news/technology/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/technology/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>'Revenge porn' illegal under new law</title>  
+      <description>People who post so-called "revenge porn" pictures and videos onto the internet could face two years in jail under a new law.</description>  
+      <link>http://www.bbc.co.uk/news/29596583#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/29596583</guid>  
+      <pubDate>Mon, 13 Oct 2014 11:23:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78178000/jpg/_78178137_78178116.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78178000/jpg/_78178138_78178116.jpg"/> 
+    </item>  
+    <item> 
+      <title>Samsung accelerates wi-fi speeds</title>  
+      <description>Electronics giant Samsung claims to have overcome technical hurdles that will let its gadgets beam data around at speeds of 4.6Gbps.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29595220#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29595220</guid>  
+      <pubDate>Mon, 13 Oct 2014 11:57:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78179000/jpg/_78179230_78179223.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78179000/jpg/_78179231_78179223.jpg"/> 
+    </item>  
+    <item> 
+      <title>Kmart shops hit by payment card hack</title>  
+      <description>Cash registers at Kmart stores in the US were infected with malware that scooped up payment card numbers for a month, reports the retailer.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29595214#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29595214</guid>  
+      <pubDate>Mon, 13 Oct 2014 09:41:50 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78176000/jpg/_78176318_170808856(1).jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78176000/jpg/_78176319_170808856(1).jpg"/> 
+    </item>  
+    <item> 
+      <title>Nude 'Snapchat images' put online</title>  
+      <description>Explicit images believed to have been sent through Snapchat are reportedly put online, but the firm says its servers were not breached.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29569226#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29569226</guid>  
+      <pubDate>Fri, 10 Oct 2014 16:25:12 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78144000/jpg/_78144838_456736602.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78144000/jpg/_78144839_456736602.jpg"/> 
+    </item>  
+    <item> 
+      <title>Britons seek 'right to be forgotten'</title>  
+      <description>One in 10 requests for web links to be removed from search results under European "right to be forgotten" laws have come from the UK, Google says.</description>  
+      <link>http://www.bbc.co.uk/news/uk-29586700#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-29586700</guid>  
+      <pubDate>Sun, 12 Oct 2014 05:18:32 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78161000/jpg/_78161982_003152983-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78161000/jpg/_78161983_003152983-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Only 100 cybercrime brains worldwide</title>  
+      <description>The head of Europol's cybercrime centre reveals who the bad guys are and what law enforcement are doing to catch them.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29567782#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29567782</guid>  
+      <pubDate>Fri, 10 Oct 2014 11:30:23 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78134000/gif/_78134624_password.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78134000/gif/_78134625_password.gif"/> 
+    </item>  
+    <item> 
+      <title>Apple's Ive accuses copycats of theft</title>  
+      <description>Apple's lead designer Jony Ive has hit out at companies he believes copy his firm's products.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29569002#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29569002</guid>  
+      <pubDate>Fri, 10 Oct 2014 11:50:34 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78135000/jpg/_78135582_456954720.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78135000/jpg/_78135583_456954720.jpg"/> 
+    </item>  
+    <item> 
+      <title>Meerkat-cam uses TV white space</title>  
+      <description>A wireless technology is being tested at London Zoo to film meerkats, giant tortoises and otters and stream their daily lives to YouTube</description>  
+      <link>http://www.bbc.co.uk/news/technology-29551379#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29551379</guid>  
+      <pubDate>Thu, 09 Oct 2014 23:04:41 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78125000/jpg/_78125919_meerkat.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78125000/jpg/_78125920_meerkat.jpg"/> 
+    </item>  
+    <item> 
+      <title>Microsoft will 'respect' Minecraft</title>  
+      <description>The boss of Minecraft-maker Mojang has reassured fans worried about what will happen when Microsoft takes over.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29567196#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29567196</guid>  
+      <pubDate>Fri, 10 Oct 2014 09:57:11 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78130000/jpg/_78130445_77592896.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78130000/jpg/_78130446_77592896.jpg"/> 
+    </item>  
+    <item> 
+      <title>Anti-snoop phone maker plans tablet</title>  
+      <description>Shhh. The anti-snooping smartphone could soon have a big brother all of its own.</description>  
+      <link>http://www.bbc.co.uk/newsbeat/29560342#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/newsbeat/29560342</guid>  
+      <pubDate>Thu, 09 Oct 2014 17:47:33 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78122000/png/_78122144_blackphone.png"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78122000/png/_78122145_blackphone.png"/> 
+    </item>  
+    <item> 
+      <title>Phones held by police remotely wiped</title>  
+      <description>Several police forces have had potential evidence wiped from mobile phones while in police custody, the BBC has learned.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29464889#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29464889</guid>  
+      <pubDate>Thu, 09 Oct 2014 12:30:26 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78113000/gif/_78113374_deletekey2.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78113000/gif/_78113375_deletekey2.gif"/> 
+    </item>  
+    <item> 
+      <title>Symantec to split in two companies</title>  
+      <description>Software maker Symantec becomes the latest tech company to announce that it will split its operations into two.</description>  
+      <link>http://www.bbc.co.uk/news/business-29563475#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-29563475</guid>  
+      <pubDate>Fri, 10 Oct 2014 03:18:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78134000/jpg/_78134948_w92su089.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78134000/jpg/_78134949_w92su089.jpg"/> 
+    </item>  
+    <item> 
+      <title>Plans to create 'gaming' school</title>  
+      <description>British games industry veteran Ian Livingstone, creator of Tomb Raider, formally applies to launch a free school with lessons built using video gaming.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29550486#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29550486</guid>  
+      <pubDate>Thu, 09 Oct 2014 14:20:59 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78115000/jpg/_78115180_141450216.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78115000/jpg/_78115181_141450216.jpg"/> 
+    </item>  
+    <item> 
+      <title>Comedy club charges 'per laugh'</title>  
+      <description>A Spanish comedy club is experimenting with a charge-per-laugh scheme using facial recognition software to monitor each member of the audience.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29551380#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29551380</guid>  
+      <pubDate>Thu, 09 Oct 2014 14:41:03 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78116000/gif/_78116427_audiencelaughing.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78116000/gif/_78116428_audiencelaughing.gif"/> 
+    </item>  
+    <item> 
+      <title>Matt Smith in latest nude photo leak</title>  
+      <description>The ex-Doctor Who star and his former girlfriend Daisy Lowe seem to be the latest hacking victims.</description>  
+      <link>http://www.bbc.co.uk/newsbeat/29556349#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/newsbeat/29556349</guid>  
+      <pubDate>Thu, 09 Oct 2014 14:55:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78117000/jpg/_78117654_lowe2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78117000/jpg/_78117655_lowe2.jpg"/> 
+    </item>  
+    <item> 
+      <title>ATM hack 'gives out wads of cash'</title>  
+      <description>Interpol issues a warning as a flaw in cash machines that allows criminals to quickly steal wads of cash is discovered.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29537907#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29537907</guid>  
+      <pubDate>Wed, 08 Oct 2014 13:28:11 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78087000/jpg/_78087650_78087641.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78087000/jpg/_78087761_78087641.jpg"/> 
+    </item>  
+    <item> 
+      <title>Robot learns how snakes climb dunes</title>  
+      <description>US researchers discover how sidewinders climb sand dunes by studying their motion in the lab and copying it with a robot.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-29523851#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-29523851</guid>  
+      <pubDate>Fri, 10 Oct 2014 08:21:06 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78082000/jpg/_78082370_marvi3hr.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78082000/jpg/_78082371_marvi3hr.jpg"/> 
+    </item>  
+    <item> 
+      <title>Man walks GTA V map for charity</title>  
+      <description>Tommy Refenes took on the challenge of walking the Grand Theft Auto V map to help his diabetic mum to buy a guide dog.</description>  
+      <link>http://www.bbc.co.uk/newsbeat/29568134#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/newsbeat/29568134</guid>  
+      <pubDate>Mon, 13 Oct 2014 06:44:56 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78172000/jpg/_78172100_gettgtav.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78172000/jpg/_78172101_gettgtav.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Playing music with your brain</title>  
+      <description>Could technology turn you into a musical virtuoso? LJ Rich looks at new ways to make music.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29333741#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29333741</guid>  
+      <pubDate>Fri, 26 Sep 2014 09:30:34 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/77773000/jpg/_77773401_music3.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/77773000/jpg/_77773402_music3.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: App helps you wake up with a stranger</title>  
+      <description>The app that turns a global network of strangers into your alarm clock, with a dating twist.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29221163#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29221163</guid>  
+      <pubDate>Mon, 22 Sep 2014 08:43:49 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/77735000/jpg/_77735931_de27.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/77735000/jpg/_77735932_de27.jpg"/> 
+    </item>  
+    <item> 
+      <title>AUDIO: The art of video game noise</title>  
+      <description>BBC News highlights the importance of sound effects in crafting a successful video game.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29597258#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29597258</guid>  
+      <pubDate>Mon, 13 Oct 2014 10:11:02 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78177000/jpg/_78177769_78173238.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78177000/jpg/_78177770_78173238.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Tags for people with dementia</title>  
+      <description>BBC Inside Out reports how people with dementia who are physically active, and may be lost, are tagged to monitor their location.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-29525867#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-29525867</guid>  
+      <pubDate>Mon, 13 Oct 2014 06:51:30 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78141000/jpg/_78141477_johndunn.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78141000/jpg/_78141478_johndunn.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Racing drones in the French Alps</title>  
+      <description>BBC Click looks at some of the week's technology highlights</description>  
+      <link>http://www.bbc.co.uk/news/technology-29546019#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29546019</guid>  
+      <pubDate>Fri, 10 Oct 2014 07:43:18 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78122000/jpg/_78122564_clickbait3.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78122000/jpg/_78122565_clickbait3.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: How to 'walk' on the Red Planet</title>  
+      <description>Nasa scientists are turning to virtual reality to interact with their space robots.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29522600#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29522600</guid>  
+      <pubDate>Fri, 10 Oct 2014 08:02:43 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067328_mars_afp1024.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78067000/jpg/_78067329_mars_afp1024.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Twitter founder talks 'evolving' media</title>  
+      <description>BBC Click talks to Twitter co-founder Biz Stone about the growth of social media.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29516006#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29516006</guid>  
+      <pubDate>Wed, 08 Oct 2014 07:01:39 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066361_de28.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78066000/jpg/_78066362_de28.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Up close with Curiosity Mars rover</title>  
+      <description>BBC Click gets rare access to the twin of Nasa's Curiosity Mars rover which is helping scientists solve problems on the Red Planet.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29522596#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29522596</guid>  
+      <pubDate>Wed, 08 Oct 2014 08:02:45 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78060000/jpg/_78060531_curiosity1024.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78060000/jpg/_78060532_curiosity1024.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: 'Nerve-shredding' - Alien: Isolation</title>  
+      <description>Marc Cieslak reviews the new video game Alien: Isolation to be released on 7 October.</description>  
+      <link>http://www.bbc.co.uk/news/technology-29462338#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29462338</guid>  
+      <pubDate>Mon, 06 Oct 2014 12:24:52 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/77974000/jpg/_77974663_alien.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/77974000/jpg/_77974664_alien.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Twitter parody ruined me - Pietersen</title>  
+      <description>Kevin Pietersen tells BBC Breakfast he was "ruined" after learning a parody social media account about him came from within the England dressing room.</description>  
+      <link>http://www.bbc.co.uk/sport/0/cricket/29518479</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/cricket/29518479</guid>  
+      <pubDate>Tue, 07 Oct 2014 08:53:16 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056099_mmcrikponparodyv1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78056000/jpg/_78056100_mmcrikponparodyv1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Should spy-planes fight US crime?</title>  
+      <description>Hi-res surveillance system causes US controversy</description>  
+      <link>http://www.bbc.co.uk/news/technology-29469017#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29469017</guid>  
+      <pubDate>Sun, 12 Oct 2014 23:41:48 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78113000/jpg/_78113166_78112949.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78113000/jpg/_78113167_78112949.jpg"/> 
+    </item>  
+    <item> 
+      <title>The cool cars that money can't buy</title>  
+      <description>The cool cars that money can't buy</description>  
+      <link>http://www.bbc.co.uk/news/business-29551036#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-29551036</guid>  
+      <pubDate>Sun, 12 Oct 2014 22:42:19 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78119000/jpg/_78119547_theoinfinitiq80.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78119000/jpg/_78119548_theoinfinitiq80.jpg"/> 
+    </item>  
+    <item> 
+      <title>'Air' plastic and mushroom cushions</title>  
+      <description>Growing mushroom cushions and making plastic from air</description>  
+      <link>http://www.bbc.co.uk/news/business-29543834#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-29543834</guid>  
+      <pubDate>Thu, 09 Oct 2014 23:34:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78112000/jpg/_78112612_mushroom2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78112000/jpg/_78112613_mushroom2.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: GoPro makes surfer boss a billionaire</title>  
+      <description>Extreme sports camera boss says he's just getting started</description>  
+      <link>http://www.bbc.co.uk/news/technology-29547719#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29547719</guid>  
+      <pubDate>Thu, 09 Oct 2014 09:06:38 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78105000/jpg/_78105525_78102730.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78105000/jpg/_78105526_78102730.jpg"/> 
+    </item>  
+    <item> 
+      <title>The scenic route to your happy place</title>  
+      <description>Do you live in a happy city?</description>  
+      <link>http://www.bbc.co.uk/news/technology-28133155#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-28133155</guid>  
+      <pubDate>Wed, 08 Oct 2014 23:28:27 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78104000/gif/_78104498_happycouple.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78104000/gif/_78104499_happycouple.gif"/> 
+    </item>  
+    <item> 
+      <title>Grow your own tiny forest on the web</title>  
+      <description>Growing tiny forests in cities</description>  
+      <link>http://www.bbc.co.uk/news/technology-29344620#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-29344620</guid>  
+      <pubDate>Wed, 08 Oct 2014 00:17:17 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://news.bbcimg.co.uk/media/images/78057000/gif/_78057875_trees2.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://news.bbcimg.co.uk/media/images/78059000/gif/_78059420_trees2.gif"/> 
+    </item> 
+  </channel> 
+</rss>
